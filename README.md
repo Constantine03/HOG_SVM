@@ -1,3 +1,3 @@
 # HOG_SVM
-My masters diploma project
-Using HOG and SVM for human detection
+My masters diploma project: 
+using HOG and SVM for human detection
